@@ -1,0 +1,10 @@
+body{
+    background-color: violet;
+}
+
+.h{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+}
